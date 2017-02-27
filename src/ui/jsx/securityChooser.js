@@ -4,7 +4,9 @@ var Market = require('./market');
 
 var SecurityChooser = React.createClass({
 	render : function() {
-		return <input value=""/>;
+		return (
+      <input value=""/>
+    );
 	}
 });
 module.exports = SecurityChooser;

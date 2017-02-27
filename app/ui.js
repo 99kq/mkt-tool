@@ -51,7 +51,7 @@
 	var ReactDOM = __webpack_require__(161);
 	var SecurityChooser = __webpack_require__(162);
 	
-	ReactDOM.render(React.createElement(SecurityChooser, null), document.getElementById('security'));
+	ReactDOM.render(React.createElement(SecurityChooser, null), document.getElementById('views'));
 
 /***/ },
 /* 1 */
